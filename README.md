@@ -1,8 +1,8 @@
 # Customization
 ### Linux stats:
-- [bottom— graphical process/system monitor for the terminal](https://github.com/clementtsang/bottom)
-- [toipe — a terminal based typing test](https://github.com/Samyak2/toipe)
-- [wordgrinder — simple, Unicode-aware word processor](https://github.com/davidgiven/wordgrinder)
+- [Bottom— graphical process/system monitor for the terminal](https://github.com/clementtsang/bottom)
+- [Toipe — a terminal based typing test](https://github.com/Samyak2/toipe)
+- [Wordgrinder — simple, Unicode-aware word processor](https://github.com/davidgiven/wordgrinder)
 - [mc midnight commander](https://midnight-commander.org/)
 - [Micro — simple terminal text editor]()
 - [Espeak – text to speech generator](https://github.com/espeak-ng/espeak-ng)
