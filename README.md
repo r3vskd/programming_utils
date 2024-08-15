@@ -1,15 +1,14 @@
 # Customization
-- fun and util tools:D
+### Linux stats:
 - bottom
 - toipe
 - wordgrinder
-- micro 
-- mc 
-- espeak
-- asciiqcarium
-- https://patorjk.com/
-- https://www.asciiart.eu/
-- https://patorjk.com/software/taag/#p=display&f=Graffiti&t= (search fonts on: ansi figlet fonts)
+- mc (midnight commander)
+- [Micro — simple terminal text editor]()
+- [Espeak – text to speech generator](https://github.com/espeak-ng/espeak-ng)
+- [Asciiquarium — aquarium/sea animation in ASCII art](https://github.com/cmatsuoka/asciiquarium)
+- [Collection of fun tools](https://patorjk.com/)
+- [A large collection of ASCII art drawings and other related ASCII art pictures.](https://www.asciiart.eu)
 
 # Tools & Resources for productivity:
 - [Ascii Art Generator](https://github.com/topics/ascii-art-generator)
