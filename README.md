@@ -1,12 +1,12 @@
 # Customization
 ### Linux stats:
-- [Bottom— graphical process/system monitor for the terminal](https://github.com/clementtsang/bottom)
-- [Toipe — a terminal based typing test](https://github.com/Samyak2/toipe)
-- [Wordgrinder — simple, Unicode-aware word processor](https://github.com/davidgiven/wordgrinder)
-- [mc midnight commander](https://midnight-commander.org/)
-- [Micro — simple terminal text editor]()
-- [Espeak – text to speech generator](https://github.com/espeak-ng/espeak-ng)
-- [Asciiquarium — aquarium/sea animation in ASCII art](https://github.com/cmatsuoka/asciiquarium)
+- [Bottom - graphical process/system monitor for the terminal](https://github.com/clementtsang/bottom)
+- [Toipe - a terminal based typing test](https://github.com/Samyak2/toipe)
+- [Wordgrinder - simple, Unicode-aware word processor](https://github.com/davidgiven/wordgrinder)
+- [mc - midnight commander](https://midnight-commander.org/)
+- [Micro - simple terminal text editor]()
+- [Espeak - text to speech generator](https://github.com/espeak-ng/espeak-ng)
+- [Asciiquarium - aquarium/sea animation in ASCII art](https://github.com/cmatsuoka/asciiquarium)
 - [Collection of fun tools](https://patorjk.com/)
 - [A large collection of ASCII art drawings and other related ASCII art pictures.](https://www.asciiart.eu)
 
