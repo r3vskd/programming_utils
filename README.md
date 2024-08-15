@@ -12,8 +12,8 @@
 - https://patorjk.com/software/taag/#p=display&f=Graffiti&t= (search fonts on: ansi figlet fonts)
 
 # Tools & Resources for productivity:
-https://github.com/topics/ascii-art-generator
-https://www.convertcsv.com
+[ascii art generator]https://github.com/topics/ascii-art-generator
+[convert to csv]https://www.convertcsv.com
 https://www.thepromptwarrior.com/subscribe
 https://www.thedeepview.co/subscribe
 https://t.co/jKkGOatTjM
